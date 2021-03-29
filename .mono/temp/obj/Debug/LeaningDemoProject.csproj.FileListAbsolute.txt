@@ -1,0 +1,8 @@
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/obj/Debug/LeaningDemoProject.csprojAssemblyReference.cache
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/obj/Debug/LeaningDemoProject.AssemblyInfoInputs.cache
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/obj/Debug/LeaningDemoProject.AssemblyInfo.cs
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/obj/Debug/LeaningDemoProject.csproj.CoreCompileInputs.cache
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/bin/Debug/LeaningDemoProject.dll
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/bin/Debug/LeaningDemoProject.pdb
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/obj/Debug/LeaningDemoProject.dll
+/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/obj/Debug/LeaningDemoProject.pdb

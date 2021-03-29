@@ -1,0 +1,48 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "/home/meow74/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/meow74/Documents/Godot/LeaningDemoProject/LeaningDemoProject.csproj",
+      "projectName": "LeaningDemoProject",
+      "projectPath": "/home/meow74/Documents/Godot/LeaningDemoProject/LeaningDemoProject.csproj",
+      "packagesPath": "/home/meow74/.nuget/packages/",
+      "outputPath": "/home/meow74/Documents/Godot/LeaningDemoProject/.mono/temp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/meow74/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "runtimeIdentifierGraphPath": "/usr/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
